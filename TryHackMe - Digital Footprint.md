@@ -1,3 +1,5 @@
+# Recap: TryHackMe - Digital Footprint
+
 **Room:** TryHackMe, Digital Footprint
 
 **What it covered:** An OSINT (Open-Source Intelligence) challenge room. Starting from an image, I had to find information using publicly available tools and techniques — scanning the image for visual clues and checking the file's metadata (EXIF data) to extract hidden information.
