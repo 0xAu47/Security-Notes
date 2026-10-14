@@ -1,4 +1,4 @@
-# Recap: Digital Footprint
+# Recap: Digital Footprint (Challenge)
 
 **Room:** TryHackMe, Digital Footprint
 
