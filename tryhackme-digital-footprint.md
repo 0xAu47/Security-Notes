@@ -1,7 +1,7 @@
 # Recap: Digital Footprint 
 
 **Room:** TryHackMe, Digital Footprint (Challenge Lab)
-
+**Link** https://tryhackme.com/room/osintchallengeiv
 **What it covered:** Four different OSINT angles for digging up information from "leaked" material — recovering hidden EXIF/metadata from a photo, pulling older archived/cached versions of a company site, identifying a location just from what's visible in an image with no metadata at all, and finding identifying info left inside a document file itself.
 
 
