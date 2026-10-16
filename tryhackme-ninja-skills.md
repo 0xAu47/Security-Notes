@@ -1,6 +1,6 @@
 # Recap: Ninja Skills
 
-**Room:** TryHackMe, Ninja Skills
+**Room:** TryHackMe, Ninja Skills (Challenge Lab)
 
 **Link** https://tryhackme.com/room/ninjaskills
 
