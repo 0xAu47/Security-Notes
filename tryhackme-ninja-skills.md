@@ -1,4 +1,5 @@
 Room: Ninja Skills — TryHackMe
+
 Link: https://tryhackme.com/room/ninjaskills
 
 What it covered: Deployed a Linux lab machine and worked through 12 oddly-named files scattered across the filesystem (home directory, /mnt, /var, /opt, /etc, /media, and root) to answer six questions about them. For each question I located the relevant file(s) with find, then matched the question to the right basic command: find -group to filter by group ownership directly, cat piped into grep to search content for an IP address, sha1sum to match a given hash, wc -l to match a line count, ls -ln to find a file by its numeric owner ID, and ls -al to spot the file executable by everyone.
