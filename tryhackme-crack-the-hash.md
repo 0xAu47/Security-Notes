@@ -1,6 +1,7 @@
 # Recap: Crack the Hash
 
-**Room:** TryHackMe — Crack the Hash (https://tryhackme.com/room/crackthehash)
+**Room:** TryHackMe — Crack the Hash (Challenge Lab)
+Link: (https://tryhackme.com/room/crackthehash)
 
 **What it covered:** Identifying hash types and cracking them. Level 1 was straightforward — unsalted MD5, SHA1, SHA256, and bcrypt hashes solved with an online hash-cracking tool (hashes.com). Level 2 raised the difficulty: hashes had to be identified manually using hashcat's example-hash reference and hashes.com's identifier tool, then cracked offline with `hashcat` against the rockyou wordlist. The last two hashes in Level 2 were salted, which meant figuring out not just the hash type but how the salt and password were combined.
 
