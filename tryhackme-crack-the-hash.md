@@ -1,4 +1,3 @@
----
 # Recap: Crack the Hash
 
 **Room:** TryHackMe — Crack the Hash (https://tryhackme.com/room/crackthehash)
